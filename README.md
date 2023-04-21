@@ -1,9 +1,9 @@
-## Olá, eu sou Karem Senhorini, estudante de filosofia e programação!!
+## Hi, I'm a student of philosophy and programming with a focus on front-end!!
 <div align="center">
   <a href="https://github.com/KaremSenhorini">
 </div>
 
-Meu principal interesse atualmente é me desenvolver profissionalmente. Sou estudante no curso de Filosofia pela Universidade Estadual de Londrina, a graduação de filosofia pode parecer excêntrica, mas me permite ter outro olhar sobre o mundo e as pessoas, ao qual a curiosidade auxilia a me destacar dos demais e solucionar problemas de forma ágil e ética no ambiente de trabalho.
+My main interest currently is to develop myself professionally. I am a student in the Philosophy course at the State University of Londrina (UEL). While a degree in philosophy may seem eccentric, it allows me to have a different perspective on the world and people, and my curiosity helps me stand out and solve problems quickly and ethically in the workplace.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
