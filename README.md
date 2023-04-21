@@ -1,4 +1,4 @@
-## Hi, I'm a student of philosophy and programming with a focus on front-end!!
+## Hi, I'm a student of philosophy and programming with a focus on front-end 📚💻!!
 <div align="center">
   <a href="https://github.com/KaremSenhorini">
 </div>
